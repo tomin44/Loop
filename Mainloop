@@ -11,7 +11,7 @@ while (count <= 5) {
   console.log("Iteration " + count);
   count++;
 }
-
+//
 //  Do-While loop
 console.log("Example 3: Do-While loop");
 let num = 1;
