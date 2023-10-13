@@ -7,7 +7,7 @@ for (let i = 1; i <= 50; i++) {
 // 2: While loop
 console.log("Example 2: While loop");
 let count = 1;
-while (count <= 210) {
+while (count <= 20) {
   console.log("Iteration " + count);
   count++;
 }
